@@ -1,0 +1,8 @@
+classifiers: <CCKG.CCKG object at 0x7064487238d0>
+prob_type_workers: [0, 0, 0, 0, 1, 0, 0]nn_tasks: [5, 10, 20, 40, 80]
+n_workers: [5, 10, 20, 40, 80, 160, 320, 640]
+percetage_tasks_workers: 1
+prob_worker: [[0.3, 0.1], [0.3, 0.1], [0.8, 0.1], [0.8, 0.1], [-1, -1], [-1, -1], [-1, -1]]
+confidence_worker: [[0.8, 0.1], [0.3, 0.1], [0.8, 0.1], [0.3, 0.1], [-1, 0.1], [-1, -1], [0.8, 0.1]]
+hard_labels: False
+itt: 30

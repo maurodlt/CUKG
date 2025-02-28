@@ -1,0 +1,7 @@
+n_tasks: 20
+n_workers: 5
+percetage_tasks_workers: 1
+prob_worker: [[0.3, 0.1], [0.3, 0.1], [0.8, 0.1], [0.8, 0.1], [-1, -1], [-1, -1], [-1, -1]]
+confidence_worker: [[0.8, 0.1], [0.3, 0.1], [0.8, 0.1], [0.3, 0.1], [-1, 0.1], [-1, -1], [0.8, 0.1]]
+hard_labels: False
+itt: 30
